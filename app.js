@@ -1,0 +1,1 @@
+console.log("Pozdrowienia z pliku app.js! Task runner śmiga aż miło.");
