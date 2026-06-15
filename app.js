@@ -1,1 +1,4 @@
-console.log("Pozdrowienia z pliku app.js! Task runner śmiga aż miło.");
+let nr1 = 12;
+var nr2 = 8;
+const PI =3.14159;
+console.log(PI);
